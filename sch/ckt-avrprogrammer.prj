@@ -1,0 +1,6 @@
+schematics ckt-avrprogrammer.sch
+output-name ../pcb/ckt-avrprogrammer
+skip-m4
+elements-dir ../../iascaled-internal/design/footprints
+
+

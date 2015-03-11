@@ -34,8 +34,6 @@ C 47100 44500 1 0 0 attiny2313-1.sym
 {
 T 47600 49800 5 10 0 0 0 0 1
 device=attiny2313
-T 47600 49400 5 10 0 0 0 0 1
-footprint=attiny2313
 T 47600 48700 5 10 0 1 0 0 1
 footprint=SO20W
 T 47695 49300 5 10 1 1 0 0 1
@@ -370,7 +368,7 @@ C 46900 36200 1 0 0 cpdt6-5v4.sym
 T 49600 38100 5 10 1 1 0 6 1
 refdes=U6
 T 47100 38600 5 10 0 0 0 0 1
-footprint=SOT-26
+footprint=SOT26
 T 47800 35900 5 10 1 1 0 0 1
 device=CPDT6-5V4
 }
@@ -434,7 +432,7 @@ device=Dual_Two_Way_Switch
 T 57710 47500 5 10 1 1 0 0 1
 refdes=S1
 T 57710 48000 5 10 0 0 0 0 1
-footprint=SWITCH2
+footprint=JS202011SCQN
 T 57300 45800 5 10 1 1 0 0 1
 device=JS202011SCQN
 }
@@ -445,7 +443,7 @@ device=Dual_Two_Way_Switch
 T 59090 44700 5 10 1 1 0 6 1
 refdes=S2
 T 58190 45700 5 10 0 0 0 6 1
-footprint=SWITCH2
+footprint=JS202011SCQN
 T 57300 43300 5 10 1 1 0 0 1
 device=JS202011SCQN
 }
@@ -522,7 +520,7 @@ C 43000 50700 1 270 0 cpdt6-5v4.sym
 T 45200 50400 5 10 1 1 0 6 1
 refdes=U7
 T 45400 50500 5 10 0 0 270 0 1
-footprint=SOT-26
+footprint=SOT26
 T 44900 50100 5 10 1 1 0 0 1
 device=CPDT6-5V4
 }
@@ -552,7 +550,7 @@ device=MCP1703
 T 57600 50700 5 10 1 1 0 6 1
 refdes=U8
 T 56200 49700 5 10 0 0 0 0 1
-footprint=SOT89-3
+footprint=SOT89
 }
 C 50900 50900 1 0 0 resistor-1.sym
 {
@@ -674,6 +672,8 @@ T 46900 48000 5 10 0 0 270 0 1
 symversion=0.1
 T 46500 48300 5 10 1 1 0 0 1
 value=12 MHz
+T 46200 48200 5 10 0 0 0 0 1
+footprint=ABMM2
 }
 N 46200 47900 45300 47900 4
 N 46200 47600 46100 47600 4
