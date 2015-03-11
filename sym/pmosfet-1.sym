@@ -1,4 +1,4 @@
-v 20110619 2
+v 20130925 2
 T 200 2800 5 8 0 0 0 0 1
 description=MOSFET, p-channel
 T 200 2600 5 8 0 0 0 0 1
@@ -20,9 +20,9 @@ footprint=SOT23_GSD
 P 0 200 200 200 1 0 0
 {
 T 100 300 5 10 0 1 0 4 1
-pinnumber=G
+pinnumber=1
 T 100 300 5 10 0 1 0 4 1
-pinlabel=G
+pinlabel=1
 T 100 400 5 10 0 1 0 0 1
 pinseq=1
 T 0 0 5 10 0 1 0 0 1
@@ -31,22 +31,22 @@ pintype=pas
 P 500 600 500 800 1 0 1
 {
 T 400 700 5 10 0 1 0 3 1
-pinnumber=D
+pinnumber=3
 T 400 700 5 10 0 1 0 3 1
-pinlabel=D
+pinlabel=3
 T 600 800 5 10 0 1 0 3 1
-pinseq=2
+pinseq=3
 T 700 800 5 10 0 1 0 0 1
 pintype=pas
 }
 P 500 200 500 0 1 0 1
 {
 T 400 0 5 10 0 1 0 3 1
-pinnumber=S
+pinnumber=2
 T 400 0 5 10 0 1 0 3 1
-pinlabel=S
+pinlabel=2
 T 600 0 5 10 0 1 0 3 1
-pinseq=3
+pinseq=2
 T 700 0 5 10 0 1 0 0 1
 pintype=pas
 }
