@@ -623,7 +623,7 @@ C 59700 42800 1 90 0 led-3.sym
 T 59750 43250 5 10 1 1 90 5 1
 device=BLUE LED
 T 59150 43250 5 10 1 1 90 3 1
-refdes=D4
+refdes=D7
 T 59700 42800 5 10 0 0 0 0 1
 footprint=1206
 }
