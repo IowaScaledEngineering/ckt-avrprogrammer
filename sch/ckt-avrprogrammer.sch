@@ -20,7 +20,7 @@ C 40500 43300 1 0 0 usb-minib.sym
 T 40600 45600 5 10 1 1 0 0 1
 refdes=J1
 T 40500 43300 5 10 0 0 0 0 1
-footprint=USB_MINIB_MOLEX
+footprint=MOLEX_690-005-299-043
 }
 C 52500 47300 1 0 1 capacitor-1.sym
 {

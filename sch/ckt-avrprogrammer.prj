@@ -1,4 +1,4 @@
 schematics ckt-avrprogrammer.sch
 output-name ../pcb/ckt-avrprogrammer
 skip-m4
-elements-dir ../../../footprints
+elements-dir ../../ise-footprints
