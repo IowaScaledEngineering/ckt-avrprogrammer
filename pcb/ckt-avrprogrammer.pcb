@@ -6,7 +6,7 @@ FileVersion[20100606]
 PCB["" 187500 100000]
 
 Grid[500.0 0 0 1]
-Cursor[103500 29000 0.000000]
+Cursor[0 0 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[800 800 800 1000 2000 800]
@@ -1366,7 +1366,7 @@ Layer(4 "silk")
 (
 	Text[95000 57500 0 100 "Iowa Scaled Engineering" "clearline,onsolder"]
 	Text[95000 94500 0 100 "CKT-AVRPROGRAMMER" "clearline,onsolder"]
-	Text[158500 94500 0 100 "v1.0" "clearline,onsolder"]
+	Text[158500 94500 0 100 "v1.1" "clearline,onsolder"]
 	Text[95000 86500 0 100 "(C) 2015   CC BY-SA" "clearline,onsolder"]
 	Text[95000 50000 0 100 "http://iascaled.com" "clearline,onsolder"]
 )
