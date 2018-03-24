@@ -18,7 +18,7 @@
 # Public License as published by the Free Software Foundation.
 # ======================================================================
 
-CC	= avr-gcc
+CC	= /home/data/design/arduino-1.0.5/hardware/tools/avr/bin/avr-gcc
 CFLAGS	= -Os -g -Wall -I. -I$(USBTINY)
 ASFLAGS	= -Os -g -Wall -I.
 #CFLAGS	= -Os -g -Wall -I. -I$(USBTINY)

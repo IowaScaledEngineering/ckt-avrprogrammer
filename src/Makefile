@@ -1,5 +1,5 @@
 
-HEX_FILE = ../../Pocket_AVR_Programmer/Firmware/pocket-prog/spi/main.hex
+HEX_FILE = ./pocket-prog/spi/main.hex
 
 fuse:
 	avrdude -c usbtiny -pt2313 -U hfuse:w:0xdf:m -U lfuse:w:0xef:m
