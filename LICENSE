@@ -1,0 +1,31 @@
+HARDWARE
+-----------------------------------
+Hardware portions of this project were created by Nathan Holmes and Michael Petersen of
+Iowa Scaled Engineering, LLC, and licensed under the Creative Commons Attribution-ShareAlike License.
+
+Details of this license can be found here:
+https://creativecommons.org/licenses/by-sa/3.0/us/
+
+Much of this design was inspired by SparkFun's Pocket AVR Programmer, which is open hardware and
+licensed under CC ShareAlike:
+https://www.sparkfun.com/products/9825
+
+SOFTWARE
+-----------------------------------
+The firmware in the pocket-prog directory originally came from Sparkfun's
+Pocket AVR Programmer project on GitHub:
+
+https://github.com/sparkfun/Pocket_AVR_Programmer
+
+This was, in turn, based on the USBtiny by Dick Streefland, and USBtinyISP
+by Limor Fried.
+
+http://dicks.home.xs4all.nl/avr/usbtiny/index.html
+https://learn.adafruit.com/usbtinyisp
+
+This code, per Dick Streefland's original license, is free software licensed
+under the GNU General Public License v2.  For a copy of the GPL v2, see the 
+src/pocket-prog/COPYING file.
+
+
+
