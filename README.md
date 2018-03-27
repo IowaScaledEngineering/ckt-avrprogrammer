@@ -38,6 +38,7 @@ This was, in turn, based on the USBtiny by Dick Streefland, and USBtinyISP
 by Limor Fried.
 
 http://dicks.home.xs4all.nl/avr/usbtiny/index.html
+
 https://learn.adafruit.com/usbtinyisp
 
 This code, per Dick Streefland's original license, is free software licensed
