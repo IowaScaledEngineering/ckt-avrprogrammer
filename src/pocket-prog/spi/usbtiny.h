@@ -32,10 +32,8 @@
 // www.voti.nl or www.mecanique.co.uk, or be naughty and use something
 // else, like for instance product ID 0x6666, which is registered as
 // "Prototype product Vendor ID".
-//#define	USBTINY_VENDOR_ID		0x1B4F // SparkFun VendorID
-//#define	USBTINY_DEVICE_ID		0x0003 // SparkFun Product ID #3
-#define	USBTINY_VENDOR_ID		0x1781 // SparkFun Licensed VendorID
-#define	USBTINY_DEVICE_ID		0x0C9F // SparkFun Licensed ProductID
+#define	USBTINY_VENDOR_ID		0x1209 // pid.codes VendorID
+#define	USBTINY_DEVICE_ID		0x6570 // ISE/CKT-AVRPROGRAMMER ProductID
 
 // The version of the device as a 16-bit number: 256*major + minor.
 #define	USBTINY_DEVICE_VERSION		0x104
