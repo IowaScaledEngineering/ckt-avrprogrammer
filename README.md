@@ -1,11 +1,14 @@
 # Iowa Scaled Engineering CKT-AVRPROGRAMMER
 
-The CKT-AVRPROGRAMMER is a modification on the various USBtinyISP
-Atmel/Microchip AVR programmers, such as the [SparkFun Pocket AVR
-Programmer](https://www.sparkfun.com/products/9825) and [Adafruit USPtinyISP
-AVR Programmer](https://www.adafruit.com/product/46).  We wanted a version with 
-the ability to power both 3.3V and 5V targets, and short protection to
-avoid taking down the USB chain in the event of a target short.
+The [CKT-AVRPROGRAMMER](https://www.iascaled.com/store/CKT-AVRPROGRAMMER) is
+a modification on the various USBtinyISP Atmel/Microchip AVR programmers,
+such as the [SparkFun Pocket AVR Programmer](https://www.sparkfun.com/products/9825) 
+and [Adafruit USPtinyISP AVR Programmer](https://www.adafruit.com/product/46). 
+We wanted a version with the ability to power both 3.3V and 5V targets, and
+short protection to avoid taking down the USB chain in the event of a target
+short.
+
+https://www.iascaled.com/store/CKT-AVRPROGRAMMER
 
 ## Hardware
 
@@ -26,8 +29,7 @@ Production versions are archived in the pg/ directory, and include PDFs of
 the schematics and PCB files, as well as the actual gerbers used for board
 and stencil generation.
 
-
-## SOFTWARE
+## Software
 
 Source code can be found in the src/ subdirectory.  The firmware in the pocket-prog directory originally came from Sparkfun's
 Pocket AVR Programmer project on GitHub:
