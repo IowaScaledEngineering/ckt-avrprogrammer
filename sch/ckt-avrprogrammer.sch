@@ -76,7 +76,7 @@ C 56600 39300 1 0 1 avrprog-1.sym
 T 56600 40900 5 10 0 1 0 6 1
 device=AVRPROG
 T 56600 39300 5 10 0 0 0 0 1
-footprint=JUMPER3x2
+footprint=JUMPER3x2-SMT
 T 55900 40600 5 10 1 1 0 3 1
 refdes=J3
 }
